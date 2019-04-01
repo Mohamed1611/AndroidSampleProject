@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29835" started-at="2019-04-01T14:01:09Z" finished-at="2019-04-01T14:01:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29835" started-at="2019-04-01T14:01:09Z" finished-at="2019-04-01T14:01:38Z">
+      <class name="Appium.AndroidSample.ResetTC">
+        <test-method status="PASS" signature="StartSession()[pri:0, instance:Appium.AndroidSample.ResetTC@5c3bd550]" name="StartSession" is-config="true" duration-ms="5649" started-at="2019-04-01T14:01:09Z" finished-at="2019-04-01T14:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartSession -->
+        <test-method status="PASS" signature="ResetMethod()[pri:0, instance:Appium.AndroidSample.ResetTC@5c3bd550]" name="ResetMethod" duration-ms="24170" started-at="2019-04-01T14:01:14Z" finished-at="2019-04-01T14:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResetMethod -->
+      </class> <!-- Appium.AndroidSample.ResetTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
